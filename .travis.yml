@@ -2,8 +2,7 @@ language: node_js
 node_js:
   - "5"
 install:
-  - npm install -g elm
-  - npm install -g elm-test
+  - npm install -g elm@0.18.0 elm-test@0.18.12 
   - elm-package install -y
   - pushd tests && elm-package install -y && popd
 script:
