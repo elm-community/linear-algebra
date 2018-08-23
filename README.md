@@ -1,3 +1,5 @@
+DEPRECATED: Moved to [elm-explorations/linear-algebra](https://package.elm-lang.org/packages/elm-explorations/linear-algebra/latest)
+
 # Fast Linear Algebra for Elm
 
 A library for fast vector and matrix math. See the full docs [here][docs].
